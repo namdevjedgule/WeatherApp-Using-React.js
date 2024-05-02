@@ -1,4 +1,6 @@
 <a href="https://github.com/namdevjedgule">Namdev Jedgule </a>
+![Screenshot 2023-12-19 094530](https://github.com/namdevjedgule/WeatherApp-Using-React.js/blob/main/Screenshot.png)
+
 # Weather App
 
 This is a simple weather app built with React. It allows users to search for a location and get the current weather conditions.
