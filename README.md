@@ -1,5 +1,9 @@
 ![Screenshot 2023-12-19 094530](https://github.com/namdevjedgule/WeatherApp-Using-React.js/blob/main/Screenshot.png)
 
+ <p align="center">
+  View <a href="https://weather-app-using-react-js-ochre.vercel.app/">Live demo</a>.
+ </p>
+ 
 # Weather App
 This is a simple weather app built with React. It allows users to search for a location and get the current weather conditions.
 
